@@ -1,1 +1,1 @@
-# next-sol
+# Take payments IRL with Solana Pay
